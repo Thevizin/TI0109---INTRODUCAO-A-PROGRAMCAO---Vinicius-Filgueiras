@@ -1,0 +1,12 @@
+Algoritmo "Desconto de 10%"
+
+Algoritmo
+Declare preçoProduto numérico
+Declare desconto numérico
+Declare novoPreco numérico
+Escreva "Digite o preço do produto: "
+Leia preçoProduto
+desconto recebe preçoProduto * 0.1
+novoPreco recebe preçoProduto - desconto
+Escreva "O novo preço do produto com desconto de 10% é: R$", novoPreco
+Fim_algoritmo

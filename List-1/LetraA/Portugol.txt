@@ -1,0 +1,13 @@
+Algoritmo "Média ponderada de notas"
+
+algoritmo
+Declare nota1 numérico 
+Declare nota2 numérico 
+Declare mediaPonderada numérico
+Escreva "Digite a primeira nota: "
+Leia nota1
+Escreva "Digite a segunda nota: "
+Leia nota2
+mediaPonderada recebe ((nota1 * 2) + (nota2 * 3)) / (2 + 3)
+Escreva "A média ponderada das notas é:", mediaPonderada
+Fim_algoritmo

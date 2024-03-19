@@ -1,0 +1,11 @@
+algoritmo
+Declare B1, B2, H, A numéricos
+Escreva "Digite o valor da base maior do trapézio: "
+Leia B1
+Escreva "Digite o valor da base menor do trapézio: "
+Leia B2
+Escreva "Digite o valor da altura do trapézio: "
+Leia H
+A recebe ((B1 + B2) * H) / 2
+Escreva "A área do trapézio é: ", A
+Fim_algoritmo

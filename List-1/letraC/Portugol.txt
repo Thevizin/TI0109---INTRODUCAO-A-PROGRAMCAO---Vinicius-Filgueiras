@@ -1,0 +1,11 @@
+algoritmo
+Declare Sfx, v, c, SF numéricos
+Escreva "Digite o salário fixo do funcionário: "
+Leia Sfx
+Escreva "Digite o valor total das vendas realizadas: "
+Leia v
+c recebe v * 0.04
+SF recebe Sfx + c
+Escreva "A comissão do funcionário é: R$", c
+Escreva "O salário final do funcionário é: R$", SF
+Fim_algoritmo

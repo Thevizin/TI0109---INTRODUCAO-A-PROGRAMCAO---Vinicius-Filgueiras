@@ -1,0 +1,9 @@
+Início do algoritmo.
+Receba o valor da primeira nota.
+Receba o valor da segunda nota.
+Multiplique a primeira nota por 2 e armazene o resultado em uma variável.
+Multiplique a segunda nota por 3 e armazene o resultado em outra variável.
+Some os resultados das multiplicações das notas e armazene o resultado em uma terceira variável.
+Divida o resultado da soma anterior pelo somatório dos pesos (2+3) e armazene em uma quarta variável.
+Mostre o resultado da média ponderada das notas.
+Fim do algoritmo.

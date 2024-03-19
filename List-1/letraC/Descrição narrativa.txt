@@ -1,0 +1,7 @@
+Início do algoritmo.
+Receba o valor do salário fixo do funcionário.
+Receba o valor total das vendas realizadas pelo funcionário.
+Calcule a comissão do funcionário aplicando 4% sobre o valor total das vendas e armazene o resultado em uma variável.
+Some o valor da comissão ao salário fixo e armazene o resultado em uma segunda variável.
+Mostre o valor da comissão e o valor final do salário do funcionário.
+Fim do algoritmo.

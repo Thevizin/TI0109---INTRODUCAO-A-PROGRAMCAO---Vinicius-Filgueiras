@@ -1,0 +1,5 @@
+Início do algoritmo.
+Receba o valor do peso da pessoa em quilos.
+Converta o valor do peso de quilos para gramas, multiplicando por 1000, e armazene o resultado em uma variável.
+Mostre o valor do peso da pessoa em gramas.
+Fim do algoritmo.

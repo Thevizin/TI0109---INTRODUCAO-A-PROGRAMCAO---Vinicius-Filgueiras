@@ -1,0 +1,6 @@
+Declare L, A numéricos
+Escreva "Digite o valor do lado do quadrado: "
+Leia L
+A recebe L * L
+Escreva "A área do quadrado é: ", A
+Fim_algoritmo

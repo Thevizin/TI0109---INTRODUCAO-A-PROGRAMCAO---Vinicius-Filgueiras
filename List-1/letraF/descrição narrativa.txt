@@ -1,0 +1,5 @@
+Início do algoritmo.
+Receba o valor do lado do quadrado.
+Calcule a área do quadrado, elevando o valor do lado ao quadrado e armazene o resultado em uma variável.
+Mostre o valor da área do quadrado.
+Fim do algoritmo.

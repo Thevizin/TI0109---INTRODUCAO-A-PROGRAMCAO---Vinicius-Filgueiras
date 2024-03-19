@@ -1,0 +1,6 @@
+Início do algoritmo.
+Receba o valor do preço do produto.
+Calcule o valor do desconto aplicando 10% sobre o preço do produto.
+Subtraia o valor do desconto do preço original e armazene o resultado em uma variável.
+Mostre o valor do novo preço com desconto.
+Fim do algoritmo.

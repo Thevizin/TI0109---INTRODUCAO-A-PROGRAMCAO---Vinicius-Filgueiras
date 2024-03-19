@@ -1,0 +1,7 @@
+Início do algoritmo.
+Receba o valor da base maior do trapézio.
+Receba o valor da base menor do trapézio.
+Receba o valor da altura do trapézio.
+Calcule a área do trapézio utilizando a fórmula: A=((base maior + base menor) * altura)/2 e armazene o resultado em uma variável.
+Mostre o valor da área do trapézio.
+Fim do algoritmo.

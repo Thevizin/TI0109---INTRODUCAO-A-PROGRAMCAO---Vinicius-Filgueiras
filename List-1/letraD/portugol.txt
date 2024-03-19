@@ -1,0 +1,7 @@
+algoritmo
+Declare Kg, G numéricos
+Escreva "Digite o peso em quilos: "
+Leia Kg
+G recebe Kg * 1000
+Escreva "O peso em gramas é: ", G, "g"
+Fim_algoritmo
